@@ -276,7 +276,7 @@
 }
 
 .cat-item:hover div {
-    border: 10px solid #ec99ec; /* Darker lavender color for the border */
+    border: 10px solid #57cb70; /* Darker lavender color for the border */
     background-color: transparent; /* Keep the background transparent */
 }
 
