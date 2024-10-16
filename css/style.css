@@ -1,3 +1,9 @@
+/* Solid Gold Text Color */
+.text-gold {
+    color: #c29636;
+}
+
+
 /********** Template CSS **********/
 :root {
     --primary: #00B98E;
@@ -111,6 +117,9 @@
     z-index: 1;
 }
 
+
+
+
 .navbar {
     box-shadow: 0 0 30px rgba(0, 0, 0, .08);
 }
@@ -132,7 +141,7 @@
 .navbar-light .navbar-nav .nav-link {
     margin-right: 30px;
     padding: 25px 0;
-    color: #FFFFFF;
+    color: #3b0606;
     font-size: 15px;
     text-transform: uppercase;
     outline: none;
@@ -164,7 +173,7 @@
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: var(--dark);
+    color: var(--secondary);
     font-weight: 500;
 }
 
